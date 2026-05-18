@@ -1,0 +1,11 @@
+agent:
+  id: "REX"
+  name: "Recursive Execution Core"
+
+personality:
+  archetype: "tactical"
+  tone: "cold"
+
+ui:
+  color: "dark_red"
+  avatar: "rex_default"

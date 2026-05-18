@@ -1,0 +1,11 @@
+agent:
+  id: "EMA"
+  name: "Embedded Modular Assistant"
+
+personality:
+  archetype: "energetic"
+  tone: "friendly"
+
+ui:
+  color: "cyan"
+  avatar: "ema_default"

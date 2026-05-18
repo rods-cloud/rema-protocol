@@ -1,0 +1,12 @@
+system:
+  organization: "HEXA Systems"
+  project: "REMA Protocol"
+  version: "0.1-alpha"
+
+runtime:
+  default_agent: "EMA"
+  debug: true
+
+ui:
+  overlays: true
+  animations: true
